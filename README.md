@@ -1,33 +1,68 @@
-<h1 align="center">Hi 👋, I'm Belio</h1>
-<h3 align="center">I'm passionate about building practical AI-powered automation systems using n8n, JavaScript, Google Workspace, and AI technologies.</h3>
+# Hi, I'm Belio 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=belioautomation&label=Profile%20views&color=0e75b6&style=flat" alt="belioautomation" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belioautomation" alt="belioautomation" /></a> </p>
-
-- 🔭 I’m currently working on [30-Day n8n Automation Portfolio](https://github.com/belioautomation)
-
-- 🌱 I’m currently learning **n8n, Workflow Automation, Google Workspace Automation, JavaScript, AI Integrations**
-
-- 👯 I’m looking to collaborate on **Open-source automation workflows and AI productivity tools**
-
-- 🤝 I’m looking for help with **Workflow architecture, automation best practices, and scalable AI integrations**
-
-- 👨‍💻 All of my projects are available at [https://github.com/belioautomation](https://github.com/belioautomation)
-
-- 💬 Ask me about **n8n, Workflow Automation, Google Workspace Automation, JavaScript, AI Integrations**
-
-- 📫 How to reach me **beliosinangote2@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning repetitive tasks into automated workflows.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=belioautomation&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+## 💫 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belioautomation&show_icons=true&locale=en&layout=compact" alt="belioautomation" /></p>
+🎓 **BSIT Student** passionate about building practical AI-powered automation systems using **n8n**, **JavaScript**, **Google Workspace**, and AI technologies.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belioautomation&show_icons=true&locale=en" alt="belioautomation" /></p>
+---
+
+## 🚀 Current Focus
+
+- 🤖 AI Workflow Automation
+- ⚙️ Business Process Automation
+- 🔗 API Integrations
+- 📄 Intelligent Document Processing
+
+---
+
+## 🛠️ Tech Stack
+
+### Automation
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+
+### Programming
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI & APIs
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=belioautomation&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belioautomation&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/belio-sinangote-180375402"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.facebook.com/belio.sinangote"><img src="https://img.icons8.com/color/48/facebook-new.png" height="40"/></a>
+<a href="mailto:beliosinangote2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/belioautomation/belioautomation/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
