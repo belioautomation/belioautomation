@@ -105,15 +105,15 @@ Attendance automation built using Google Forms, Google Sheets, n8n, JavaScript, 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/belio-sinangote-180375402">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="mailto:beliosinangote2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="https://t.me/Beliotiks">
-<img src="https://skillicons.dev/icons?i=telegram" height="40"/>
+<a href="https://www.facebook.com/belio.sinangote">
+  <img src="https://img.icons8.com/color/48/facebook-new.png" height="40"/>
 </a>
 
 </p>
