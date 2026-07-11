@@ -45,12 +45,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=belioautomation&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belioautomation&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=belioautomation&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belioautomation&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=belioautomation&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=belioautomation&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
