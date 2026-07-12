@@ -1,7 +1,7 @@
 # Hi, I'm Belio 👋
 
 <h3 align="center">
-AI Automation Builder • BSIT Student • JavaScript Developer
+AI Automation Builder • BSIT Student 
 </h3>
 
 <p align="center">
