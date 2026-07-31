@@ -35,20 +35,23 @@ I enjoy creating intelligent workflows that connect **AI**, **APIs**, **cloud se
 
 # 🚀 Featured Projects
 
-### 📄 AI Resume Ranking System
-AI-powered recruitment workflow that evaluates resumes, ranks candidates using Google Gemini AI, stores results in Google Sheets, and sends recruiter notifications.
-
-### 📄 Invoice Data Extractor
-OCR-powered invoice processing workflow that extracts structured information from PDF invoices and automatically organizes the data.
-
-### 📧 AI Email Classifier
-Automatically monitors Gmail, classifies incoming emails with AI, logs results into Google Sheets, and notifies users through Telegram.
-
 ### 📰 AI Content Factory
-End-to-end content automation pipeline that researches trending topics, generates SEO articles, creates AI content, and prepares multi-platform publishing.
+An end-to-end AI-powered content automation workflow that discovers trending topics, performs research, generates SEO-optimized articles, creates supporting content, and prepares multi-platform publishing.
 
-### 🎓 Smart Attendance Monitoring System
-Attendance automation built using Google Forms, Google Sheets, n8n, JavaScript, and Telegram notifications.
+### 📧 AI Email Assistant
+An AI-powered email automation workflow that analyzes incoming emails, classifies priority, detects sentiment, generates professional reply suggestions, and supports a human-in-the-loop review process.
+
+### 🎧 AI Customer Support Email Triage System
+An intelligent customer support workflow that classifies incoming emails, determines urgency, generates AI-powered response suggestions, and routes requests for efficient handling.
+
+### 🧠 AI Research Assistant (RAG)
+A Retrieval-Augmented Generation (RAG) workflow that indexes documents into a vector database and provides context-aware answers using AI and a private knowledge base.
+
+### 💬 Local AI Chatbot (Qdrant + RAG)
+A private AI chatbot built with n8n, Ollama, and Qdrant that enables secure document retrieval and question answering without relying on external AI services.
+
+### 💰 AI Large Expense Tracker & Receipt Manager
+An AI-powered financial automation workflow that extracts receipt information, tracks expenses, detects large transactions, and organizes records in Google Sheets.
 
 ---
 
