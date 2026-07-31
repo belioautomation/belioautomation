@@ -1,7 +1,7 @@
 # Hi, I'm Belio 👋
 
 <h3 align="center">
-AI Automation Builder • BSIT Student 
+AI Automation Developer | n8n Workflow Specialist | BSIT Student 
 </h3>
 
 <p align="center">
