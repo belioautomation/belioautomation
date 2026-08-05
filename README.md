@@ -1,11 +1,11 @@
 # Hi, I'm Belio 👋
 
 <h3 align="center">
-AI Automation Developer | n8n Workflow Specialist | BSIT Student 
+AI Automation Developer | n8n & Zapier Specialist | BSIT Student
 </h3>
 
 <p align="center">
-Building practical workflow automation and AI-powered business solutions using <strong>n8n</strong>, <strong>JavaScript</strong>, and modern cloud technologies.
+Building practical workflow automation and AI-powered business solutions using <strong>n8n</strong>, <strong>Zapier</strong>, <strong>JavaScript</strong>, and modern cloud technologies.
 </p>
 
 <p align="center">
@@ -60,6 +60,7 @@ An AI-powered financial automation workflow that extracts receipt information, t
 ### 🤖 Automation
 
 ![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 
 ---
 
