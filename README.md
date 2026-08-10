@@ -1,184 +1,166 @@
-
 # Belio Sinangote
 
 ### AI Automation & Integration Developer
 
-I build **AI-powered automation systems** that connect LLMs, APIs, SaaS platforms, databases, and business processes.
+I design and build AI-powered automation systems that streamline business operations by connecting people, data, AI models, and software platforms.
 
-**Focus:** AI Automation · n8n · Zapier · LLM Integrations · AI Agents · RAG · API Integrations · Business Process Automation
+My focus is on creating reliable workflows that automate repetitive processes, improve information flow, and support human decision-making through AI.
 
----
+### What I Specialize In
 
-## 👋 About Me
-
-I'm an **AI Automation & Integration Developer** focused on building practical automation systems that connect **AI, APIs, SaaS platforms, and business workflows**.
-
-I work primarily with **n8n, Zapier, LLMs, AI Agents, RAG, REST APIs, and Google Workspace integrations** to turn repetitive processes into structured, intelligent workflows.
-
-My approach combines **automation architecture, AI integration, data processing, API connectivity, and human-in-the-loop design** to build solutions that are reliable, maintainable, and adaptable.
-
-I'm continuously expanding my expertise in **AI Agents, LLM orchestration, RAG architectures, workflow engineering, and AI-powered business automation**.
+* AI Workflow Automation
+* n8n Workflow Engineering
+* LLM & AI Agent Integrations
+* API & SaaS Integrations
+* Retrieval-Augmented Generation (RAG)
+* Business Process Automation
+* Data Processing & Workflow Orchestration
 
 ---
 
-## 🚀 Core Expertise
+## Featured Systems
 
-- AI Automation & Workflow Engineering
-- n8n & Zapier Automation
-- LLM & AI Agent Integration
-- REST APIs & Webhooks
-- RAG & Vector Databases
-- Data Extraction & Transformation
-- SaaS & Google Workspace Integrations
-- Human-in-the-Loop Automation
+### 📩 AI Customer Support Email Triage System
 
----
+An intelligent support workflow that analyzes incoming emails, determines priority and sentiment, routes cases to the appropriate team, and maintains an audit trail for review.
 
-# 🛠️ Technical Stack
+**Key Concepts**
 
-### 🤖 AI & Automation
+* AI Classification
+* Sentiment Analysis
+* Priority Routing
+* Human Review Workflow
+* Notification Automation
 
-`n8n` · `Zapier` · `OpenRouter` · `OpenAI` · `Google Gemini`  
-`AI Agents` · `LLMs` · `RAG` · `Embeddings` · `Prompt Engineering`
-
-### 🔗 Development & Integrations
-
-`JavaScript` · `REST APIs` · `Webhooks` · `JSON`  
-`Gmail API` · `Google Sheets API` · `Telegram Bot API` · `LinkedIn API`
-
-### 🗄️ Data & Infrastructure
-
-`PostgreSQL` · `Qdrant` · `Google Sheets` · `Docker` · `Linux`
-
-### ☁️ Platforms & Services
-
-`Google Workspace` · `Gmail` · `Google Drive` · `Telegram` · `GitHub`
+**Tech Stack**
+`n8n` `OpenRouter` `Gmail` `Google Sheets` `Telegram`
 
 ---
 
-# ⭐ Featured Projects
+### 📧 AI Email Assistant
 
-| Project | Focus | Stack |
-|---|---|---|
-| 📩 **AI Customer Support Email Triage** | AI classification, priority routing, sentiment analysis & escalation | `n8n` `Gemini` `Gmail` `Telegram` |
-| 📧 **AI Email Assistant** | Email analysis, priority detection, AI replies & human review | `n8n` `OpenRouter` `Gmail` |
-| 🔬 **AI Research Assistant** | RAG, embeddings, semantic retrieval & knowledge search | `n8n` `Qdrant` `OpenRouter` |
-| 🧠 **Local AI Chatbot** | Private knowledge retrieval with local AI & RAG | `Ollama` `Qdrant` `n8n` |
-| 📝 **AI Content Factory** | AI content generation, processing & publishing | `n8n` `LLMs` `APIs` |
-| 🧾 **AI Expense Tracker** | OCR, AI extraction, validation & structured storage | `n8n` `OCR` `Google Sheets` |
+Automates email analysis and response preparation by generating structured summaries, identifying action items, and creating AI-assisted reply drafts for human approval.
 
-> **Portfolio focus:** AI automation systems designed around real business workflows, integrations, data processing, and human oversight.
+**Key Concepts**
+
+* Email Intelligence
+* Response Generation
+* Workflow Routing
+* Human-in-the-Loop Review
+
+**Tech Stack**
+`n8n` `OpenRouter` `Gmail` `Google Sheets`
 
 ---
 
-# 🏗️ Engineering Capabilities
+### 🔬 AI Research Assistant (RAG)
+
+Indexes documents, generates embeddings, stores vectors, and retrieves relevant information to support AI-powered question answering.
+
+**Key Concepts**
+
+* RAG Architecture
+* Embeddings
+* Semantic Search
+* Knowledge Retrieval
+
+**Tech Stack**
+`n8n` `Qdrant` `OpenRouter` `Embeddings`
+
+---
+
+## Engineering Approach
+
+Every automation system I build follows a structured workflow design process:
 
 ```text
-AI & Automation
-├── LLM Integration
-├── AI Agents
-├── RAG Systems
-├── Prompt Engineering
-└── Workflow Automation
-
-Integration
-├── REST APIs
-├── Webhooks
-├── SaaS Integrations
-└── Google Workspace
-
-Data
-├── Extraction
-├── Transformation
-├── Validation
-├── Embeddings
-└── Vector Search
-
-Workflow Engineering
-├── Conditional Routing
-├── Error Handling
-├── Data Validation
-├── Notifications
-├── Human Review
-└── Execution Monitoring
-````
-
-### Engineering Practices
-
-* **Modular workflow design**
-* **Structured AI outputs**
-* **Input & data validation**
-* **Conditional business logic**
-* **API error handling**
-* **Human-in-the-loop workflows**
-* **Credential isolation**
-* **Execution monitoring**
-* **Reusable automation patterns**
-
----
-
-# 🎨 Portfolio
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/AI%20Automation-n8n%20%7C%20Zapier-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/LLM%20Integration-Gemini%20%7C%20OpenAI%20%7C%20OpenRouter-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/RAG-Qdrant%20%7C%20Embeddings-7B61FF?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/API%20Integration-REST%20%7C%20Webhooks-222222?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/Automation-Business%20Processes-00A67E?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📜 Certifications
-
-* **TESDA** — Computer Systems Servicing NC II
-* **Cisco Networking Academy** — Apply AI: Analyze Customer Reviews
-* **n8n Education Team** — Integrations: APIs & Connected Workflows 
-* **Simplilearn** — Master AI for Web App Development
-* **Simplilearn** — n8n
-
----
-
-# 🎯 Current Focus
-
-`AI Agents` · `LLM Orchestration` · `RAG` · `n8n Architecture` · `API Integrations` · `AI Business Automation`
-
----
-
-# 💼 Open to Opportunities
-
-**AI Automation · n8n · Zapier · AI Agents · LLM Integrations · Workflow Engineering · API Integrations · Automation Engineering**
-
----
-
-# 🤝 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/belio-sinangote-180375402/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:beliosinangote2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
-  <a href="https://www.facebook.com/belio.sinangote" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
-
----
-
-> **Building reliable AI automation systems that connect intelligence, data, and business processes.**
-
+Business Problem
+       ↓
+Data Collection
+       ↓
+Validation & Processing
+       ↓
+AI Analysis
+       ↓
+Business Logic
+       ↓
+Human Review (if required)
+       ↓
+Action & Integration
+       ↓
+Logging & Monitoring
 ```
+
+### Workflow Design Principles
+
+* Modular workflow architecture
+* Structured AI outputs
+* Error handling and fallback logic
+* Human approval checkpoints
+* API-first integrations
+* Reusable automation components
+* Execution monitoring and logging
+
+---
+
+## Technical Stack
+
+### Automation
+
+`n8n` · `Zapier`
+
+### AI & LLMs
+
+`OpenRouter` · `OpenAI` · `Google Gemini` · `AI Agents` · `RAG`
+
+### Integrations
+
+`REST APIs` · `Webhooks` · `JSON`
+
+### Data
+
+`PostgreSQL` · `Qdrant` · `Google Sheets`
+
+### Infrastructure
+
+`Docker` · `Linux` · `GitHub`
+
+---
+
+## Certifications
+
+* TESDA — Computer Systems Servicing NC II
+* Cisco Networking Academy — Apply AI: Analyze Customer Reviews
+* n8n Education Team — Integrations: APIs & Connected Workflows
+* Simplilearn — Master AI for Web App Development
+* Simplilearn — n8n Course
+
+---
+
+## Current Focus
+
+Building automation systems that combine:
+
+* AI Agents
+* LLM Integrations
+* RAG Architectures
+* API Automation
+* Workflow Engineering
+
+with an emphasis on reliability, maintainability, and business value.
+
+---
+
+## Open to Opportunities
+
+Interested in:
+
+**AI Automation Specialist • n8n Developer • Workflow Engineer • AI Integration Specialist • Automation Engineer**
+
+### Connect
+
+LinkedIn: linkedin.com/in/belio-sinangote-180375402
+
+GitHub: github.com/belioautomation
+
+> Building practical AI automation systems that solve business problems through intelligent workflows and integrations.
