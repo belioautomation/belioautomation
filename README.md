@@ -1,3 +1,4 @@
+
 # Belio Sinangote
 
 ### AI Automation & Integration Developer
@@ -5,6 +6,18 @@
 I build **AI-powered automation systems** that connect LLMs, APIs, SaaS platforms, databases, and business processes.
 
 **Focus:** AI Automation · n8n · Zapier · LLM Integrations · AI Agents · RAG · API Integrations · Business Process Automation
+
+---
+
+## 👋 About Me
+
+I'm an **AI Automation & Integration Developer** focused on building practical automation systems that connect **AI, APIs, SaaS platforms, and business workflows**.
+
+I work primarily with **n8n, Zapier, LLMs, AI Agents, RAG, REST APIs, and Google Workspace integrations** to turn repetitive processes into structured, intelligent workflows.
+
+My approach combines **automation architecture, AI integration, data processing, API connectivity, and human-in-the-loop design** to build solutions that are reliable, maintainable, and adaptable.
+
+I'm continuously expanding my expertise in **AI Agents, LLM orchestration, RAG architectures, workflow engineering, and AI-powered business automation**.
 
 ---
 
@@ -126,42 +139,11 @@ Workflow Engineering
 
 ---
 
-# 🎥 Project Demonstrations
-
-Selected projects include workflow demonstrations, architecture diagrams, screenshots, and implementation documentation.
-
-### Featured Demo
-
-📩 **AI Customer Support Email Triage System**
-
-> Demo videos and screenshots are available inside the respective project repositories.
-
----
-
-# 📌 Project Quality Standard
-
-Each featured automation project is structured around:
-
-**Problem → Architecture → AI Processing → Business Logic → Integrations → Output**
-
-Where applicable, projects include:
-
-* 📖 Documentation
-* 🏗️ Architecture
-* 📸 Screenshots
-* 🎥 Demo
-* ⚙️ Setup Instructions
-* 🔐 Security Considerations
-* 🧪 Testing & Validation
-* 🚀 Future Improvements
-
----
-
 # 📜 Certifications
 
 * **TESDA** — Computer Systems Servicing NC II
 * **Cisco Networking Academy** — Apply AI: Analyze Customer Reviews
-* **n8n** — Integrations
+* **n8n Education Team** — Integrations: APIs & Connected Workflows 
 * **Simplilearn** — Master AI for Web App Development
 * **Simplilearn** — n8n
 
@@ -199,6 +181,4 @@ Where applicable, projects include:
 
 > **Building reliable AI automation systems that connect intelligence, data, and business processes.**
 
-```
-and evidence of the engineering practices claimed in the profile.
 ```
