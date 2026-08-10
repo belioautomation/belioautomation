@@ -1,166 +1,226 @@
 # Belio Sinangote
 
-### AI Automation & Integration Developer
+### AI Automation Specialist | n8n Workflow Developer | AI & API Integrations
 
-I design and build AI-powered automation systems that streamline business operations by connecting people, data, AI models, and software platforms.
+I build **AI-powered automation workflows that connect LLMs, APIs, SaaS platforms, data sources, and business processes**.
 
-My focus is on creating reliable workflows that automate repetitive processes, improve information flow, and support human decision-making through AI.
+My work focuses on turning repetitive manual processes into structured workflows using **n8n, LLMs, REST APIs, RAG, databases, and business applications**.
 
-### What I Specialize In
-
-* AI Workflow Automation
-* n8n Workflow Engineering
-* LLM & AI Agent Integrations
-* API & SaaS Integrations
-* Retrieval-Augmented Generation (RAG)
-* Business Process Automation
-* Data Processing & Workflow Orchestration
+I design automations with practical engineering patterns such as **structured AI outputs, data validation, conditional routing, error handling, human review, notifications, and execution logging**.
 
 ---
 
-## Featured Systems
+## 🚀 What I Build
 
-### 📩 AI Customer Support Email Triage System
-
-An intelligent support workflow that analyzes incoming emails, determines priority and sentiment, routes cases to the appropriate team, and maintains an audit trail for review.
-
-**Key Concepts**
-
-* AI Classification
-* Sentiment Analysis
-* Priority Routing
-* Human Review Workflow
-* Notification Automation
-
-**Tech Stack**
-`n8n` `OpenRouter` `Gmail` `Google Sheets` `Telegram`
+* **AI Workflow Automation** — intelligent workflows for repetitive business processes
+* **AI Email & Support Automation** — classification, prioritization, routing, drafting, and escalation
+* **AI Agents & LLM Workflows** — tool-connected AI workflows and structured decision-making
+* **RAG Systems** — document ingestion, embeddings, vector search, and knowledge retrieval
+* **API Integrations** — REST APIs, webhooks, authentication, JSON transformation, and third-party services
+* **Document & Data Automation** — OCR, extraction, validation, transformation, and structured storage
+* **Human-in-the-Loop Systems** — automated processing with human approval when decisions require review
 
 ---
 
-### 📧 AI Email Assistant
+## 🛠️ Technical Stack
 
-Automates email analysis and response preparation by generating structured summaries, identifying action items, and creating AI-assisted reply drafts for human approval.
+### AI & Automation
 
-**Key Concepts**
+`n8n` · `OpenRouter` · `OpenAI` · `Google Gemini` · `Ollama`
 
-* Email Intelligence
-* Response Generation
-* Workflow Routing
-* Human-in-the-Loop Review
+`LLMs` · `AI Agents` · `RAG` · `Embeddings` · `Prompt Engineering`
 
-**Tech Stack**
-`n8n` `OpenRouter` `Gmail` `Google Sheets`
+### Integrations & Development
 
----
+`JavaScript` · `REST APIs` · `Webhooks` · `JSON`
 
-### 🔬 AI Research Assistant (RAG)
+`Gmail API` · `Google Sheets API` · `Google Drive` · `Telegram Bot API` · `LinkedIn API`
 
-Indexes documents, generates embeddings, stores vectors, and retrieves relevant information to support AI-powered question answering.
+### Data & Infrastructure
 
-**Key Concepts**
+`PostgreSQL` · `Qdrant` · `Google Sheets` · `Docker` · `Linux`
 
-* RAG Architecture
-* Embeddings
-* Semantic Search
-* Knowledge Retrieval
+### Platforms
 
-**Tech Stack**
-`n8n` `Qdrant` `OpenRouter` `Embeddings`
+`Google Workspace` · `GitHub` · `Telegram` · `Gmail`
 
 ---
 
-## Engineering Approach
+# ⭐ Selected Projects
 
-Every automation system I build follows a structured workflow design process:
+These projects represent the type of AI automation systems I focus on building.
+
+| Project                                 | What it demonstrates                                                                                        |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 📩 **AI Customer Support Email Triage** | AI classification, sentiment analysis, priority routing, escalation, and notifications                      |
+| 📧 **AI Email Assistant**               | Email analysis, structured AI output, priority detection, reply generation, human review, and audit logging |
+| 🔬 **AI Research Assistant**            | RAG pipeline, document processing, embeddings, vector search, and LLM-based retrieval                       |
+| 🧠 **Local AI Chatbot**                 | Private knowledge retrieval using local AI, Qdrant, and RAG                                                 |
+| 📝 **AI Content Factory**               | Research, content generation, processing, and multi-step publishing automation                              |
+| 🧾 **AI Expense Tracker**               | OCR/data extraction, AI processing, validation, and structured financial records                            |
+
+---
+
+# 🏗️ Automation Engineering
+
+I focus on building workflows that are not only functional, but also **structured, maintainable, and reliable**.
+
+### Workflow Architecture
 
 ```text
-Business Problem
-       ↓
-Data Collection
-       ↓
-Validation & Processing
-       ↓
-AI Analysis
-       ↓
-Business Logic
-       ↓
-Human Review (if required)
-       ↓
-Action & Integration
-       ↓
-Logging & Monitoring
+Trigger
+   ↓
+Input Validation
+   ↓
+Data Transformation
+   ↓
+AI / Business Logic
+   ↓
+Structured Output
+   ↓
+Conditional Routing
+   ↓
+External System / Human Review
+   ↓
+Logging & Notification
 ```
 
-### Workflow Design Principles
+### Engineering Patterns
 
-* Modular workflow architecture
+* Modular workflow design
 * Structured AI outputs
+* JSON data transformation
+* Input and data validation
+* Conditional business logic
+* API integrations
+* Webhook-based workflows
 * Error handling and fallback logic
-* Human approval checkpoints
-* API-first integrations
-* Reusable automation components
-* Execution monitoring and logging
+* Human-in-the-loop approval
+* Execution logging
+* Credential isolation
+* Reusable automation patterns
 
 ---
 
-## Technical Stack
+# 🤖 AI Automation Focus
 
-### Automation
+I use LLMs as components inside larger workflows rather than treating AI generation as the entire solution.
 
-`n8n` · `Zapier`
+### LLM Integration
 
-### AI & LLMs
+```text
+Business Event
+      ↓
+Data Collection
+      ↓
+Data Preparation
+      ↓
+LLM Processing
+      ↓
+Structured Result
+      ↓
+Business Rules
+      ↓
+Action / Review
+```
 
-`OpenRouter` · `OpenAI` · `Google Gemini` · `AI Agents` · `RAG`
+This allows AI outputs to be **validated, routed, stored, and connected to downstream systems**.
 
-### Integrations
+### RAG
 
-`REST APIs` · `Webhooks` · `JSON`
+I have built document-based AI workflows involving:
 
-### Data
+```text
+Documents
+   ↓
+Text Extraction
+   ↓
+Chunking
+   ↓
+Embeddings
+   ↓
+Vector Database
+   ↓
+Semantic Retrieval
+   ↓
+LLM
+   ↓
+Answer
+```
 
-`PostgreSQL` · `Qdrant` · `Google Sheets`
-
-### Infrastructure
-
-`Docker` · `Linux` · `GitHub`
+Technologies include **Qdrant, embeddings, n8n, OpenRouter, and local AI with Ollama**.
 
 ---
 
-## Certifications
+# 🔌 API & Integration Work
 
-* TESDA — Computer Systems Servicing NC II
-* Cisco Networking Academy — Apply AI: Analyze Customer Reviews
-* n8n Education Team — Integrations: APIs & Connected Workflows
-* Simplilearn — Master AI for Web App Development
-* Simplilearn — n8n Course
+I work with APIs and webhooks to connect automation workflows with external systems.
+
+Experience includes:
+
+* REST API requests
+* JSON transformation
+* Webhooks
+* API authentication
+* Gmail integrations
+* Google Sheets integrations
+* Google Drive integrations
+* Telegram Bot API
+* LinkedIn API
+* AI provider APIs
+* Vector database integrations
 
 ---
 
-## Current Focus
+# 📚 Certifications
 
-Building automation systems that combine:
+* **TESDA** — Computer Systems Servicing NC II
+* **Cisco Networking Academy** — Apply AI: Analyze Customer Reviews
+* **n8n Education Team** — Integrations: APIs & Connected Workflows
+* **Simplilearn** — Master AI for Web App Development
+* **Simplilearn** — n8n
 
+---
+
+# 🎯 Current Focus
+
+I'm continuing to deepen my skills in:
+
+`AI Agents` · `LLM Orchestration` · `RAG`
+
+`n8n Architecture` · `API Integrations` · `AI Business Automation`
+
+My goal is to build automation systems that are **useful, testable, maintainable, and connected to real business processes**.
+
+---
+
+# 💼 Open to Opportunities
+
+I'm interested in opportunities involving:
+
+* AI Automation
+* n8n Workflow Development
+* AI Integration
+* LLM Applications
 * AI Agents
-* LLM Integrations
-* RAG Architectures
+* RAG Systems
 * API Automation
 * Workflow Engineering
-
-with an emphasis on reliability, maintainability, and business value.
+* Business Process Automation
 
 ---
 
-## Open to Opportunities
+# 🤝 Connect
 
-Interested in:
+I'm open to opportunities involving **AI Automation, n8n Workflow Development, AI Integrations, LLM Applications, and Business Process Automation**.
 
-**AI Automation Specialist • n8n Developer • Workflow Engineer • AI Integration Specialist • Automation Engineer**
+| Platform        | Contact                                                                               |
+| --------------- | ------------------------------------------------------------------------------------- |
+| 📧 **Email**    | [Email me](mailto:beliosinangote2@gmail.com)                                          |
+| 💼 **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/belio-sinangote-180375402/) |
 
-### Connect
+### Let's Build Something Useful
 
-LinkedIn: linkedin.com/in/belio-sinangote-180375402
+If you're looking for someone who can connect **AI, APIs, SaaS platforms, and business processes** into practical automation workflows, I'd be happy to connect.
 
-GitHub: github.com/belioautomation
-
-> Building practical AI automation systems that solve business problems through intelligent workflows and integrations.
+> **I build automation systems that turn repetitive business processes into intelligent, connected workflows.**
